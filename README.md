@@ -3,9 +3,9 @@
 ## Proposta
 O curso "Eu Programo" propôs um desafio: criar um site sobre Ada Lovelace, que é conhecida por seu trabalho pioneiro na programação de computadores, especialmente por ter escrito o primeiro algoritmo destinado a ser processado por uma máquina, o que a torna uma figura fundamental para nós, programadores.
 ## Ferramentas Utilizadas
-* CSS
-* JavaScript
-* HTML
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ## Paleta de Cores
 Elas foram selecionadas pela equipe do curso
 ## Imagens
