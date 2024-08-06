@@ -8,6 +8,7 @@ O curso "Eu Programo" propôs um desafio: criar um site sobre Ada Lovelace, que 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ## Paleta de Cores
 Elas foram selecionadas pela equipe do curso
+![paleta](paletasiteada.jpeg)
 ## Imagens
 ![ada/adaCrianca.png](https://s2.glbimg.com/WMVPPFvJ7G1OH-u1PqbgcH6PKDA=/e.glbimg.com/og/ed/f/original/2018/02/27/ada_lovelace_child_portrait_somerville_college.jpg)
 ![ada/adaPintura.png](https://s2-techtudo.glbimg.com/7YOBBhghbMF9wsUuBP7UcUh2yXI=/0x342:2439x2307/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/n/3/FbrmyhQneVYWGUPIe8vA/adalovelace.jpg)
